@@ -5,8 +5,8 @@
 - 🌱 I studied Database Design, enjoy frontend implementation and have been coding for more than 10 years
 - 💞️ I’m looking to work a small or medium business
 - 📫 How to reach me 
-        nickb.tao@gmail.com
-        https://www.linkedin.com/in/nicolas-beattie-viens-a88181226/
+        - nickb.tao@gmail.com
+        - https://www.linkedin.com/in/nicolas-beattie-viens-a88181226/
 
 
 <!---
